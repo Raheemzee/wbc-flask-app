@@ -3,5 +3,3 @@ gunicorn
 opencv-python-headless
 numpy
 werkzeug
-matplotlib
-seaborn
