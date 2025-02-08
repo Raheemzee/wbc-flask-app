@@ -1,1 +1,1 @@
-This is a Fask app I buit for counting white blood cells present in blood smear images. This app ca be very useful foe hematologists, laboratory scientists and so on for quick diagnostics of blood cancer and the likes.
+This is a Fask app I buit for counting white blood cells present in blood smear images. This app ca be very useful for hematologists, laboratory scientists and so on for quick diagnostics of blood cancer and the likes.
